@@ -36,7 +36,7 @@ public class App {
             while (true) {
                 try {
                     System.out.println("DIGITE EL NOMBRE: ");
-                    nombreEstudiante = scanner.next();
+                    nombreEstudiante = scanner.nextLine();
                     break;
                 } catch (InputMismatchException e) {
                     System.out.println("INGRESE SU NOMBRE DE NUEVO!!!");
