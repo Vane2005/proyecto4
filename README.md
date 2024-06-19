@@ -1,4 +1,4 @@
-# CUARTO MINIPROYECTO - Sistema para guardar nombres y notas respectivas de estudiantes
+# CUARTO MINIPROYECTO punto 1 - Sistema para guardar nombres y notas respectivas de estudiantes
 ### Este proyecto realiza operaciones de promedio, guardando informacion como el nombre, y nota de cada estudiante, y realizando un promedio de todas las notas, para luego, visualizar aquellos estudiantes cuya nota superan el promedio.
 
 ## Requisitos
